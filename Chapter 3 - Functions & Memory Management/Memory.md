@@ -1,5 +1,5 @@
 
-# 3.4 Memory Management in C++ (GATE-Level Deep Notes)
+# 3.4 Memory Management in C++
 
 Most beginners memorize:
 
