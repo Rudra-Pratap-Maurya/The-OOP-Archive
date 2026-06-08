@@ -1,13 +1,7 @@
-Samajh gaya 👍 — tu “notes” nahi, **real engineering-level understanding** chah raha hai jahan tu code ko dekh ke *andar se feel kare ki program kaise chal raha hai*.
 
-Chal ab Chapter 3 ko **proper deep + beginner-friendly + interview-ready + enjoyable** bana dete hain 🔥
-(Main bilkul textbook cover karunga + execution tracing + real world + curiosity + mini project bhi)
 
----
+# 🚀 **Chapter 3: Functions and Memory Management in C++**
 
-# 🚀 Chapter 3: Functions and Memory Management in C++
-
-## (Engineering Deep Notes + Step-by-Step Understanding)
 
 ---
 
